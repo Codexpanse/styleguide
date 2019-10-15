@@ -32,7 +32,7 @@
 
 ### Function tables, diagrams, etc
 
-- Font: Helvetica
+- Font: Verdana
 - Normal stroke width: 1px
 
 ### Course covers
