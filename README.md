@@ -2,7 +2,7 @@
 
 ## Text
 
-### Prefer straight double quotes: 
+### Prefer straight double quotes:
 
 - **Yes**: "this"
 - No: “this”
@@ -10,12 +10,12 @@
 
 ### Use em-dash with spaces:
 
-- **Yes**: My skirt wasn’t short — it was non-existent.  
+- **Yes**: My skirt wasn’t short — it was non-existent.
 - No: My skirt wasn’t short—it was non-existent.
 - No: My skirt wasn’t short – it was non-existent.
 - No: My skirt wasn’t short - it was non-existent.
 
----
+
 
 ## Code
 
@@ -26,7 +26,7 @@
 - Error: `# ErrorDescription`
 - Equivalent values: `a ≡ b`
 
----
+
 
 ## Illustrations
 
@@ -41,7 +41,7 @@
 - Background: white
 - Preferably black and white graphics
 
----
+
 
 ## Animations
 
@@ -62,4 +62,3 @@ Argument variables visually created on the call line:
 Return shows the arrow:
 
 ![](images/return.png)
-
