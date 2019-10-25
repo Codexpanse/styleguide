@@ -22,7 +22,7 @@
 ### Helpful comments
 
 - Function return: `# → value`
-- Print: `# 🖥️ text`
+- Print: `# →◼ text`
 - Error: `# ErrorDescription`
 - Equivalent values: `a ≡ b`
 
