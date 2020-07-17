@@ -1,5 +1,27 @@
 # Codexpanse styleguide
 
+## Style
+
+### We vs. You
+
+#### Use 'We' when discussing processes done together
+
+- **Yes**: We are going to implement...
+- **Yes**: We have made a mistake...
+- **Yes**: Our solution was good...
+- No: We remember from...
+- No: We were certain...
+
+#### Use 'You' or passive voice  when teachers' part is not relevant
+
+- **Yes**: You may remember from...
+- **Yes**: You will write...
+- **Yes**: It's possible to define...
+- No: We remember from...
+- No: We were certain...
+
+---
+
 ## Text
 
 ### Prefer straight double quotes:
@@ -15,7 +37,7 @@
 - No: My skirt wasn’t short – it was non-existent.
 - No: My skirt wasn’t short - it was non-existent.
 
-
+---
 
 ## Code
 
@@ -26,7 +48,7 @@
 - Error: `# ErrorDescription`
 - Equivalent values: `a ≡ b`
 
-
+---
 
 ## Illustrations
 
@@ -41,7 +63,7 @@
 - Background: white
 - Preferably black and white graphics
 
-
+---
 
 ## Animations
 
