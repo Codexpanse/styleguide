@@ -48,6 +48,14 @@
 - Error: `# ErrorDescription`
 - Equivalent values: `a ≡ b`
 
+### Referring to lines of code
+
+Use "(listing x, line y)" format. Example: 
+
+> The process starts from the call (listing 2, line 4)...
+> The body is short (listing 4, lines 2-5)...
+> The relevant fragments (listing 1, lines 4, 8, 11)...
+
 ---
 
 ## Illustrations
